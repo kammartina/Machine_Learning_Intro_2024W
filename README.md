@@ -1,5 +1,5 @@
 # Machine_Learning_Intro_2024W
-This repository contains code that is part of programming assignments in **Introduction to Machine Learning for Language Processing in 2024W**.
+This repository contains code that is part of programming assignments in **Introduction to Machine Learning for Language Processing in 2024W** (FH Campus Wien).
 <br><br>
 
 ***Exercise 1: Python Basics***
