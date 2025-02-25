@@ -36,7 +36,7 @@ What has been done:
   - Aiming for higher accuracy scores.
  <br><br><br>
  
-***Exercise 3: Spam Detection Using Naive Bayes***
+***Exercise 3: Spam Detection Using Naive Bayes Classification***
 <br>
 This project explores probabilistic modeling for Natural Language Processing (NLP) by **building a spam detection system**. It demonstrates the **application of Naive Bayes classifiers**, specifically **MultinomialNB and ComplementNB**, for classifying emails as spam or not spam. The primary goal of this project is to explore **probabilistic modeling** in NLP, apply it to a real-world problem, and demonstrate the benefits of **hyperparameter tuning and model comparison**. By exploring different models and metrics, the notebook helps understand the **trade-offs in performance and robustness** when dealing with text data.
 <br><br>
